@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910397188459",
+    "project_id": "flutter-personality-app",
+    "storage_bucket": "flutter-personality-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910397188459:android:6f66cd26161dcc1c70042e",
+        "android_client_info": {
+          "package_name": "com.example.personality_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClS4NcItYRBeunlZs-ijSL6rga5kuaZqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
